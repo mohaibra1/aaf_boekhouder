@@ -19,7 +19,7 @@ class ShowImageScreen extends StatelessWidget {
        ),
       body: Center(
           child:
-          _image == null ? Text('Imag is not loaded') :
+          _image == null ? Text('Image is not loaded') :
           Column (
               children: [
                 Image.file(_image),

@@ -1,6 +1,6 @@
 # aaf_boekhouder
 
-Application to send pdf files to the clous
+Application to send pdf files to the cloud
 
 ## Getting Started
 
